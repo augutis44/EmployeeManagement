@@ -14,8 +14,8 @@ The primary focus was on applying backend knowledge to create a practical applic
 
 ## Technologies Used
 
-- **Frontend**: HTML, Tailwind CSS, JavaScript (React.js)
-- **Backend**: Node.js, Express.js
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Express.js
 - **Database**: MongoDB
 
 ## Installation
