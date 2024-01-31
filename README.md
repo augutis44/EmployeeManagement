@@ -25,11 +25,11 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository:**
 2. **Navigate to the Project Folder:**
 4. **Install Dependencies:**
-- open backend folder. Run $ npm install.
-- open frontend folder. Run $ npm install.
+- open backend folder. Run `npm install`.
+- open frontend folder. Run `npm install`.
 5. **Start the Server:**
-- open backend folder. Run $ npm run dev.
-- open frontend folder. Run $ npm run dev.
+- open backend folder. Run `npm run dev`.
+- open frontend folder. Run `npm run dev`.
 6. **Access the Application:**
 - Once the server is running, open a web browser and navigate to [http://localhost:5173/](http://localhost:5173/).
 
