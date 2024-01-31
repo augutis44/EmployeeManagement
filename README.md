@@ -39,5 +39,7 @@ To set up the project locally, follow these steps:
 
 ## Project Images
 
+![Capture](https://github.com/augutis44/EmployeeManagement/assets/66724085/bf3270d8-e6d8-4ce7-b176-9cc9421813a4)
+![Capture2](https://github.com/augutis44/EmployeeManagement/assets/66724085/21878196-c155-444a-b1fa-36d0bec202c4)
+![Capture3](https://github.com/augutis44/EmployeeManagement/assets/66724085/27583d77-d068-4178-b2a7-7574115c75f2)
 ![Capture4](https://github.com/augutis44/EmployeeManagement/assets/66724085/7e59ebf6-09f3-4f67-8700-7a82a09f654c)
-
