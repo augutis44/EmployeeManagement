@@ -36,3 +36,8 @@ To set up the project locally, follow these steps:
 ## Acknowledgments
 
 - Design inspired by Sangeetha Periyaiah. https://www.syncfusion.com/blogs/post/build-a-crud-app-in-angular.aspx
+
+## Project Images
+
+![Capture4](https://github.com/augutis44/EmployeeManagement/assets/66724085/7e59ebf6-09f3-4f67-8700-7a82a09f654c)
+
